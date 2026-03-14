@@ -192,8 +192,8 @@ Yes. Replace `ChatGroq` with `ChatOpenAI` from `langchain_openai` and set your `
 
 ## 👨‍💻 Author
 
-Built by **[Your Name]** — AI Engineer  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+Built by **Arnab Mazumdar** — AI Engineer  
+[GitHub](https://github.com/arnab06082004) · [LinkedIn](http://linkedin.com/in/arnab-mazumdar-73473a2ab)
 
 ---
 
