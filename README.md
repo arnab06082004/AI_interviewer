@@ -94,8 +94,8 @@ This pipeline is built with **LangGraph** — a state machine framework where ea
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/arnab06082004/AI_interviewer
-cd AI_interviewer
+git clone https://github.com/arnab06082004/ai_resume_interviewer
+cd ai_resume_interviewer
 ```
 
 ### 2. Install dependencies
